@@ -162,4 +162,8 @@ cython_debug/
 #.idea/
 
 *.keras
+bin/
+etc/
+pyvenv.cfg
+share/
 
